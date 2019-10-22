@@ -1,6 +1,3 @@
-
-<!-- APARECER MENSAJE -->
-
 function AparecerMensaje(activo,id) {
    console.log("entro a funcion AparecerMensaje");
    if (activo == true){
